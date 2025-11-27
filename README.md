@@ -2,7 +2,7 @@
   
 # ✨ Olá, eu sou Gabriel Tormena! ✨
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Full+Stack;Entusiasta+de+Docker+%26+DevOps;Desenvolvedor+Flutter+%26+Dart;Sempre+aprendendo+algo+novo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+de+Software;Apaixonado+por+Tecnologia;Sempre+aprendendo+algo+novo!)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,9 +14,9 @@
 void main() {
   final developer = Developer(
     name: 'Gabriel Tormena',
-    role: 'Full Stack Developer',
+    role: 'Software Developer',
     languagesSpoken: ['pt_BR', 'en_US'],
-    currentFocus: 'Flutter, Docker & DevOps',
+    status: 'Sempre aprendendo!',
   );
   
   developer.sayHi();
@@ -25,11 +25,9 @@ void main() {
 
 <img align="right" height="270" width="450" alt="GIF" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"/>
 
-- 🔭 Atualmente trabalhando com **Flutter & Docker**
+- 🔭 Atualmente desenvolvendo projetos pessoais
 - 🌱 Sempre aprendendo novas tecnologias
-- 💬 Pergunte-me sobre **Dart, Flutter, Java, Docker**
-- ⚡ Fun fact: Café ☕ é meu combustível!
-- 🎯 Objetivo: Contribuir para projetos open source
+- 💬 Aberto para conversas sobre tecnologia
 
 <br clear="both">
 
@@ -109,7 +107,7 @@ void main() {
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Bieeltvz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-tormena-vargas-2b691a329/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Bieeltvz)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrieltormena9@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bieeltvz)
